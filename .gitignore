@@ -1,0 +1,20 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Virtual environment
+venv/
+
+# SQLite database
+database.db
+
+# VS Code settings
+.vscode/
+
+# Test results and coverage
+.pytest_cache/
+.coverage
+*.log
+
+# OS files
+.DS_Store
